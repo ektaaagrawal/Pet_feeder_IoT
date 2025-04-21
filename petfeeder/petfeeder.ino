@@ -8,9 +8,9 @@
 #include <WiFiUdp.h>
 
 // Blynk Template Information
-#define BLYNK_TEMPLATE_ID "TMPL3z5VSuva3"
-#define BLYNK_TEMPLATE_NAME "Pet Feeder"
-#define BLYNK_AUTH_TOKEN "-e3Gk1DabA0ZAmNYejSmkTnSDF0oJQuI"
+#define BLYNK_TEMPLATE_ID "" //Replace with your BLYNK_TEMPLATE_ID
+#define BLYNK_TEMPLATE_NAME "" //Replace with your BLYNK_TEMPLATE_NAME
+#define BLYNK_AUTH_TOKEN "" //Replace with your BLYNK_AUTH_TOKEN
 
 // WiFi Credentials
 char ssid[] = "";      // Replace with your Wi-Fi SSID
