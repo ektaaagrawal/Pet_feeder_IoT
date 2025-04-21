@@ -13,8 +13,8 @@
 #define BLYNK_AUTH_TOKEN "-e3Gk1DabA0ZAmNYejSmkTnSDF0oJQuI"
 
 // WiFi Credentials
-char ssid[] = "jigar";      // Replace with your Wi-Fi SSID
-char pass[] = "asdfghjkl";  // Replace with your Wi-Fi password
+char ssid[] = "";      // Replace with your Wi-Fi SSID
+char pass[] = "";  // Replace with your Wi-Fi password
 
 // Servo setupc:\Users\LENOVO\Pictures\Screenshots\Screenshot 2024-12-24 224513.png
 Servo myservo;
